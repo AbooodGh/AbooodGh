@@ -72,7 +72,6 @@
 | **📦 Data Structure Lib** | Implementation of various data structures. | `C++` , `OOP` | https://github.com/AbooodGh/Data_Structure |
 | **💻 System App** | Windows Forms application for management. | `.NET`, `C#` | [View Project](#) |
 
-*(ملاحظة: استبدل الروابط # بروابط مشاريعك الحقيقية)*
 
 ---
 
