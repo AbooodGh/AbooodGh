@@ -76,23 +76,26 @@
 
 ---
 
+
+
 # 📬 Contact Me
 
 <p align="center">
-  
-<a href="LINK_TO_YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:abdalrahmangabayen@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://wa.me/970598952258">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp"/>
-</a>
-
+  <a href="mailto:abdalrahmangabayen@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="35" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_USER">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="35" />
+  </a>
+  <a href="https://wa.me/970598952258">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" height="35" />
+  </a>
+  <a href="https://t.me/AbOOoOD_Gh">
+    <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" height="35" />
+  </a>
 </p>
+
+
 
 ---
 
