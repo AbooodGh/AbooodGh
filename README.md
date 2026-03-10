@@ -46,17 +46,20 @@
 
 ---
 
-# 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Abood_Gh_&theme=tokyonight" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abood_Gh_&theme=tokyo-night" width="48%" />
+  <img src="https://github.com/user-attachments/assets/22110609-0f48-4f82-b65a-e2d3638eefe1" width="350" alt="dev-working_rounded" />
+</p>
+
+---
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Abood_Gh_&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abood_Gh_&theme=tokyonight" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abood_Gh_&theme=tokyonight" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abood_Gh_&theme=tokyonight" width="32%"/>
+
 </p>
 
 ---
