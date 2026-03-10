@@ -68,8 +68,8 @@
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **🚀 Project Name** | Brief description of your project and what it does. | `C++`, `OOP` | [View Project](#) |
-| **📦 Data Structure Lib** | Implementation of various data structures. | `C++` | [View Project](#) |
+| **🚀 Bank System & Currency Exchange** | Brief description of your project and what it does. | `C++`, `OOP` | https://github.com/AbooodGh/Bank_System |
+| **📦 Data Structure Lib** | Implementation of various data structures. | `C++` , `OOP` | https://github.com/AbooodGh/Data_Structure |
 | **💻 System App** | Windows Forms application for management. | `.NET`, `C#` | [View Project](#) |
 
 *(ملاحظة: استبدل الروابط # بروابط مشاريعك الحقيقية)*
