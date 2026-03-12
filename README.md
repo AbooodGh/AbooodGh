@@ -83,7 +83,7 @@
   <a href="mailto:abdalrahmangabayen@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="35" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_USER">
+  <a href="https://www.linkedin.com/in/abd-al-rahman-ghabayen/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="35" />
   </a>
   <a href="https://wa.me/970598952258">
